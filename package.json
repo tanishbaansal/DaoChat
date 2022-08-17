@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.8.4",
+    "@mui/lab": "^5.0.0-alpha.95",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "openzeppelin-solidity": "4.6.0"
+  }
+}
