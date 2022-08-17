@@ -1,5 +1,6 @@
 # DaoChat
-![DaoChat Walkthrough](https://i.imgur.com/mAGClBZ.gif)
+![DaoChat Walkthrough](https://i.imgur.com/mAGClBZ.mp4)
+
 A Web3 Chat Dapp allowing DAO Members to Create New Proposals, Chat with Dao Members, View Proposals(Approve,
 reject them), and chat on those proposals
 
