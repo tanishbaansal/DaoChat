@@ -1,6 +1,6 @@
 # DaoChat
 <p align="center">
-  <img width="786" height="640" src="[https://i.imgur.com/m8q5u2M.gif](https://i.imgur.com/0tilXfh.gif)">
+  <img width="786" height="640" src="https://i.imgur.com/0tilXfh.gif">
 </p>
 
 DaoChat Walkthrough - https://drive.google.com/file/d/1z0KN9sju4JaNkZQZJVo-qbOEYF-4KP8g/view
