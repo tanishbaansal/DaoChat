@@ -1,6 +1,8 @@
 # DaoChat
+<p align="center">
+  <img width="786" height="640" src="[https://i.imgur.com/m8q5u2M.gif](https://i.imgur.com/0tilXfh.gif)">
+</p>
 
-![](https://i.imgur.com/0tilXfh.gif)
 DaoChat Walkthrough - https://drive.google.com/file/d/1z0KN9sju4JaNkZQZJVo-qbOEYF-4KP8g/view
 
 A Web3 Chat Dapp allowing DAO Members to Create New Proposals, Chat with Dao Members, View Proposals(Approve,
